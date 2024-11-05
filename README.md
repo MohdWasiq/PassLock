@@ -5,3 +5,6 @@
 - This application saves passwords in the Keychain of the individual app at the local level (currently, but can also use APIs to make it global).
 - Added applications can also be added to the favorites section.
 - Applications can be deleted if the user wants.
+
+
+https://user-images.githubusercontent.com/81093987/187189057-198bf82a-204a-401d-8cf0-2cada8d5041b.mp4
