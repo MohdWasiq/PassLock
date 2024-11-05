@@ -1,7 +1,7 @@
 # PassLock
-It is an iOS Application that saves the password of the different applications in Keychain at local level
-
-sets passlock password to verify before opening application again
-users can add any application inside application and enter their respective password
-this application saves passwords in Keychain of the individual app at local level (at present but can also use APIs to make it global)
-added applications can also be added in favourite sections and also be deleted if users wants
+ It is an iOS application that saves the passwords of different applications in Keychain at the local level.
+- Sets a passlock password to verify before opening the application again.
+- Users can add any application inside the app and enter the respective password.
+- This application saves passwords in the Keychain of the individual app at the local level (currently, but can also use APIs to make it global).
+- Added applications can also be added to the favorites section.
+- Applications can be deleted if the user wants.
